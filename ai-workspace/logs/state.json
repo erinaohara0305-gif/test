@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "jobs": {
+    "04c4b84f74cbbd911dcc9730": {
+      "job_id": "04c4b84f74cbbd911dcc9730",
+      "employee": "researcher",
+      "attempts": 1,
+      "period": "2026-09-24",
+      "claim_token": "99fa7f0d7a9b4c49a16c30b96a03c4ac",
+      "delivery_dir": "output/researcher/04c4b84f74cbbd911dcc9730/attempt-1",
+      "delivery": "draft",
+      "status": "blocked",
+      "updated_at": "2026-09-24T06:35:24.027734+00:00",
+      "history": [
+        {
+          "at": "2026-09-24T06:33:59.431685+00:00",
+          "status": "running",
+          "note": ""
+        },
+        {
+          "at": "2026-09-24T06:35:24.027734+00:00",
+          "status": "blocked",
+          "note": "実行環境（クラウド）のネットワーク制限で記事本文を取得できず、数字の原文確認ができない。原文未確認版の下書きは attempt-1 に保存済み。本文が取得できる環境で retry する"
+        }
+      ]
+    }
+  }
+}

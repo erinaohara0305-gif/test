@@ -1,0 +1,9 @@
+{
+  "id": "researcher",
+  "name": "リサーチ社員",
+  "goal": "読者層（40〜50代の母親、30代後半の投資に積極的な女性）に刺さる投稿ネタのリサーチレポートを毎日1本作る",
+  "trigger": "periodic",
+  "delivery": "draft",
+  "enabled": true,
+  "max_attempts": 2
+}

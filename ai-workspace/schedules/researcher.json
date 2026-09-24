@@ -1,0 +1,12 @@
+{
+  "employee": "researcher",
+  "status": "not_registered",
+  "automation_id": null,
+  "requested_schedule": "毎日 09:00",
+  "timezone": "Asia/Tokyo",
+  "cron_if_pc_is_jst": "0 9 * * *",
+  "app": "Claudeデスクトップアプリの定時タスク",
+  "prompt_file": "schedules/researcher-prompt.md",
+  "note": "試運転の結果確認後、利用者の依頼で登録する。作業フォルダの絶対パスはPC上で確定させる。",
+  "checked_at": "2026-09-24"
+}
