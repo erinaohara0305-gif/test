@@ -23,6 +23,35 @@
           "note": "実行環境（クラウド）のネットワーク制限で記事本文を取得できず、数字の原文確認ができない。原文未確認版の下書きは attempt-1 に保存済み。本文が取得できる環境で retry する"
         }
       ]
+    },
+    "f64915ad7b623f8f0b576cfb": {
+      "job_id": "f64915ad7b623f8f0b576cfb",
+      "employee": "weekly-reviewer",
+      "attempts": 1,
+      "period": "2026-09-24",
+      "claim_token": "ae90e24bafe24d678a8e003b6d9eefb5",
+      "delivery_dir": "output/weekly-reviewer/f64915ad7b623f8f0b576cfb/attempt-1",
+      "delivery": "draft",
+      "status": "succeeded",
+      "updated_at": "2026-09-24T11:35:22.771544+00:00",
+      "history": [
+        {
+          "at": "2026-09-24T11:34:41.273325+00:00",
+          "status": "running",
+          "note": ""
+        },
+        {
+          "at": "2026-09-24T11:35:22.771544+00:00",
+          "status": "succeeded",
+          "note": "対象期間2026-09-18〜09-24。届いたストーリーズ実データ1件を分析し、施策案4件を作成。データ提供は1件のみのため週次の傾向比較は次回以降"
+        }
+      ],
+      "artifacts": [
+        {
+          "path": "output/weekly-reviewer/f64915ad7b623f8f0b576cfb/attempt-1/ストーリーズ振り返り_2026-09-24.md",
+          "sha256": "e1239b50a52e83e69d8dc1e06a2f00416baf1a253cfda70b81c5e0e9aa8afbcf"
+        }
+      ]
     }
   }
 }

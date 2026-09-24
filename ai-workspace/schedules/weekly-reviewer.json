@@ -1,5 +1,12 @@
 {
   "employee": "weekly-reviewer",
   "status": "not_registered",
-  "automation_id": null
+  "automation_id": null,
+  "requested_schedule": "毎日 20:01",
+  "timezone": "Asia/Tokyo",
+  "cron_if_pc_is_jst": "1 20 * * *",
+  "app": "Claudeデスクトップアプリの定時タスク",
+  "prompt_file": "schedules/weekly-reviewer-prompt.md",
+  "note": "試運転の結果確認後、利用者の依頼で登録する。作業フォルダの絶対パスはPC上で確定させる。毎日ストーリーズのスクショを提供する運用で合意。",
+  "checked_at": "2026-09-24"
 }
