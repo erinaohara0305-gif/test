@@ -1,0 +1,9 @@
+{
+  "id": "weekly-reviewer",
+  "name": "振り返り社員",
+  "goal": "Instagramストーリーズの訴求内容を振り返り、閲覧率（インプレッション対する既読率・タップ推移など）を改善するための週次施策案を作る",
+  "trigger": "periodic",
+  "delivery": "draft",
+  "enabled": true,
+  "max_attempts": 2
+}
